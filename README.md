@@ -1,7 +1,8 @@
 # vrtest
- 这是一个手机VR摄像头demo
+ 这是一个用 `unity 3d` 实现手机VR摄像头的 demo
 
 ## 视频展示
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+![](https://github.com/jiiiimmmmmmm/vrtest/blob/master/展示视频gif.gif)
 
-![](https://github.com/jiiiimmmmmmm/vrtest/blob/master/%E5%B1%95%E7%A4%BA%E8%A7%86%E9%A2%91.mp4)
+## 解决方案
+ 
